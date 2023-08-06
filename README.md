@@ -7,7 +7,7 @@ javac a.java
 ::这是编译
 ```
 ```
-java a n
-::n为手动填写的数值，比如a10则java a 10
+java a n thread
+::n为手动填写的数值，后面是多线程线程数，比如a10则java a 10 10
 ```
 输出结果为计算时间和an的值
