@@ -1,0 +1,2 @@
+# Java_Incremental_test
+数学试卷看见一题，第一个数为a1第二个为a2，第n个为an，打算用Java复刻一下计算n的an值
