@@ -46,7 +46,7 @@ public class a {
 
         for (int i = 0; i < numThreads; i++) {
             if (i == numThreads - 1) {
-                end = n; // 最后一个线程需要计算剩余的范围
+                end = n; // 鏈�鍚庝竴涓嚎绋嬮渶瑕佽绠楀墿浣欑殑鑼冨洿
             }
 
             threads[i] = new MyThread(start, end);
@@ -68,6 +68,6 @@ public class a {
         long endTime = System.currentTimeMillis();
         long totalTime = endTime - startTime;
 
-        System.out.println("结果:" + a + " 耗时:" + totalTime + "ms");
+        System.out.println("缁撴灉:" + a + " 鑰楁椂:" + totalTime + "ms");
     }
 }
