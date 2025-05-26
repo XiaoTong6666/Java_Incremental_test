@@ -1,6 +1,6 @@
 # Java递增测试
 数学试卷看见一题（万唯数学2023白卷第17题）    
-题目：第一个数为a<sub>1</sub>第二个为a<sub>2</sub> ，第n个为a<sub>n</sub>，求a<sub>10</sub>。 
+题目：第一个数为a<sub>1</sub>第二个为a<sub>2</sub> ，第n个为a<sub>n</sub>，求a<sub>1</sub>到a<sub>10</sub>的和。 
 
 例如
 计算范围：程序将计算从 1 到 10 的和。
